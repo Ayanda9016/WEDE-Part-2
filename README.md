@@ -61,3 +61,13 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 - Client Side Validation using regular expressions for email and phone validation (W3Schools, 2023b)
 - Error Handling with visual feedback pattern (Flanagan, 2020)
 - AJAX Submission using fetch API to jsonplaceholder for asynchronous form handling without page reload (MDN Web Docs, 2023c)
+### Part 3 - Search Engine Optimisation
+
+#### 3.1 On-Page SEO
+- **Title Tags:** Descriptive titles with primary keywords as recommended by Google Search Central (2023a)
+- **Meta Descriptions:** Unique for each page under 160 characters (Moz, 2023)
+- **Header Tags:** Single H1 per page with proper H2 and H3 hierarchy for content structure (Google Search Central, 2023b)
+- **Image Optimisation:** Descriptive filenames, alt text with keywords, max-width 100 percent for responsive images (Google Search Central, 2023c)
+- **URL Structure:** Clean lowercase hyphen separated URLs (Google Search Central, 2023a)
+- **Internal Linking:** Footer links between pages with keyword rich anchor text to distribute link equity (Chaffey and Ellis-Chadwick, 2019)
+- **Mobile Friendliness:** Viewport meta tag, responsive grid, tested with Google Lighthouse (Google Developers, 2023)
