@@ -57,3 +57,7 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 - **Search:** Live filter by name and type using array filter method
 - **Filter:** By flower type Rose, Tulip, Sunflower
 - **Sort:** Price Low to High, High to Low, Name using array sort
+#### JavaScript Form Validation
+- Client Side Validation using regular expressions for email and phone validation (W3Schools, 2023b)
+- Error Handling with visual feedback pattern (Flanagan, 2020)
+- AJAX Submission using fetch API to jsonplaceholder for asynchronous form handling without page reload (MDN Web Docs, 2023c)
