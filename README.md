@@ -38,4 +38,10 @@ Alluring Florals is a local florist e-commerce website based in Durban, South Af
 - PART 3-WEDE5020
 - ## Project Overview
 Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh bouquet delivery in Durban. Built for WEDE5020 POE Part 1, 2 and 3. The website implements responsive design, dynamic JavaScript functionality and technical SEO best practices
+## Features Implemented
+
+### Part 1 - HTML CSS Structure
+- 5 Pages: Home, Shop, About, Enquiry, Contact, Cart
+- Responsive design using CSS Grid and Flexbox (MDN Web Docs, 2023a)
+- Semantic HTML5 for accessibility and SEO
 
