@@ -52,3 +52,8 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
  **Gallery Lightbox:** Click to enlarge flowers with modal overlay
 - **Leaflet Map:** Interactive map with Durban markers using Leaflet.js library (Agafonkin, 2023)
 - **Animations:** fadeIn, zoomIn, slideUp on scroll using CSS keyframes
+#### 2.2 Dynamic Content
+- Products loaded dynamically from JS array not hardcoded in HTML using fetch API (MDN Web Docs, 2023b)
+- **Search:** Live filter by name and type using array filter method
+- **Filter:** By flower type Rose, Tulip, Sunflower
+- **Sort:** Price Low to High, High to Low, Name using array sort
