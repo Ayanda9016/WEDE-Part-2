@@ -81,3 +81,8 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 #### 3.3 Technical SEO
 - **sitemap.xml:** Lists all 6 pages with priority values for crawler efficiency (Google Search Central, 2023d)
 - **robots.txt:** Directs crawlers and blocks cart page from indexing
+## Forms Explanation
+
+**enquiry.html:** For product, service, volunteer and sponsor enquiries. Validates input then processes and presents response with cost and availability. Example: Sunflower R280 x 2 equals R560, In Stock, Same day delivery. Volunteer: Free, Weekends availability. Implements progressive disclosure principle (Krug, 2014).
+
+**contact.html:** For general messages. Validates basic contact info, type of message, full message then compiles into email and provides mailto link. Follows form usability guidelines (Nielsen Norman Group, 2023).
