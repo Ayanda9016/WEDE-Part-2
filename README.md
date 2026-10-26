@@ -44,4 +44,8 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 - 5 Pages: Home, Shop, About, Enquiry, Contact, Cart
 - Responsive design using CSS Grid and Flexbox (MDN Web Docs, 2023a)
 - Semantic HTML5 for accessibility and SEO
+ Part 2 - JavaScript
 
+#### 2.1 Interactive Elements
+- **Tabs:** Our Story, Mission, Flower Care on About page using vanilla JavaScript DOM manipulation (W3Schools, 2023a)
+- **Accordion:** FAQs with jQuery slideToggle method (jQuery Foundation, 2023)
