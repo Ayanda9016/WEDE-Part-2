@@ -71,3 +71,10 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 - **URL Structure:** Clean lowercase hyphen separated URLs (Google Search Central, 2023a)
 - **Internal Linking:** Footer links between pages with keyword rich anchor text to distribute link equity (Chaffey and Ellis-Chadwick, 2019)
 - **Mobile Friendliness:** Viewport meta tag, responsive grid, tested with Google Lighthouse (Google Developers, 2023)
+#### 3.2 Off-Page SEO
+- **Backlinks:** Partner badge code for other sites, listed on local directories for domain authority (Moz, 2023)
+- **Social Media:** Facebook and WhatsApp share buttons, Instagram link, Open Graph tags for social sharing (Meta Developers, 2023)
+- **Local SEO:** LocalBusiness Schema markup with geo coordinates and opening hours as per Schema.org standards (Schema.org, 2023)
+    - Google Map embed for location verification
+    - Keywords: flowers Durban, flower delivery Durban, buy bouquets KZN
+    - Service areas: Durban Central, Umhlanga, Ballito, Musgrave, Berea
