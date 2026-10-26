@@ -34,4 +34,6 @@ Alluring Florals is a local florist e-commerce website based in Durban, South Af
 
 ### Part 1 - 12 August 2026
 - Initial build with 5 HTML pages and basic CSS
+- PART 3-WEDE5020
+- 
 
