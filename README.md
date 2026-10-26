@@ -88,7 +88,7 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 **contact.html:** For general messages. Validates basic contact info, type of message, full message then compiles into email and provides mailto link. Follows form usability guidelines (Nielsen Norman Group, 2023).
 ## Changelog
 
-### [Part 3] - 2025-05-12 - SEO Implementation
+### [Part 3] - SEO Implementation
 
 #### Added - On-Page SEO
 - Added unique title tags for all 6 pages: home.html, about.html, shop.html, cart.html, contact.html, enquiry.html
@@ -126,19 +126,19 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 - Fixed page load speed by compressing images to max-width 100 percent
 - Fixed broken internal links in footer
 
-### [Part 2.2] - 2025-05-10 - Dynamic Content
+### [Part 2.2]  - Dynamic Content
 - Implemented dynamic product loading from JS array
 - Added search filter and sort functionality on shop.html
 - Added cart functionality with localStorage
 
-### [Part 2.1] - 2025-05-08 - JavaScript Enhancements
+### [Part 2.1] - JavaScript Enhancements
 - Added tabs on about.html Our Story Mission Flower Care
 - Added accordion for FAQs
 - Added gallery lightbox
 - Added Leaflet map with Durban markers
 - Added animations fadeIn zoomIn slideUp
 
-### [Part 1] - 2025-04-20 - Initial Structure
+### [Part 1] - Initial Structure
 - Created 5 pages Home Shop About Enquiry Contact
 - Implemented responsive CSS with Grid and Flexbox
 - Differentiated enquiry.html and contact.html forms
