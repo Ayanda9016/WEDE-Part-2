@@ -3,18 +3,18 @@
 ### Part 1 - 12 August 2026
 - Initial build with 5 HTML pages.
 ### [Part 1] - Initial Structure
-- Created 5 pages Home Shop About Enquiry Contact  
+- Created 5 pages Home Shop About Enquiry Contact(Mozilla Developer Network, 2024)."  
 Project Title: Alluring Florals.
 Student Information: Ayanda Zondo.
 
 Student Number: ST10466695.
 
-Project Overview:  Alluring florals began in 2021 as a kitchen-table business in Durban, Founded by Precious Mazibuko. 
+Project Overview:  Alluring florals began in 2021 as a kitchen-table business in Durban 
 
 Website Goals and Objectives:
-Drive sales & bookings, build brand trust, Improve convenience.  
+Drive sales & bookings, build brand trust, Improve convenience. (Chaffey and Ellis-Chadwick, 2022)."  
 
-Key Features and Functionality: Hero banner with featured bouquets, quick links to shop, testimonials, and "Order Now" CTA. Mobile responsive. 
+Key Features and Functionality: Hero banner with featured bouquets, quick links to shop, testimonials, and "Order Now" CTA. Mobile responsive.(Nielsen Norman Group, 2024) and visual hierarchy (Krug, 2014)." 
 
 Timelines and Milestones: Project proposal, target audience, competitor analysis.
 ### Feedback Edits from Part 1
@@ -22,7 +22,17 @@ Timelines and Milestones: Project proposal, target audience, competitor analysis
 - Fixed: Navigation not highlighting active page
 - Improved: Contact page was empty - added full content
 - Added: Required animations for Part 2 rubric
-
+Reference List - Harvard Anglia
+Duckett, J., 2011. HTML and CSS: Design and Build Websites. Indianapolis: John Wiley & Sons.
+Robbins, J.N., 2018. Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics. 5th ed. Sebastopol: O'Reilly Media.
+Mozilla Developer Network, 2024. HTML: HyperText Markup Language - Introduction to HTML. Available at: developer.mozilla.org [Accessed 27 Oct 2026].
+World Wide Web Consortium, 2023. HTML5 Specification - The Structure of HTML Documents. Available at: w3.org [Accessed 27 Oct 2026].
+Krug, S., 2014. Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability. 3rd ed. Berkeley: New Riders.
+Nielsen, J. and Budiu, R., 2012. Mobile Usability. Berkeley: New Riders. And: Nielsen Norman Group, 2024. E-Commerce UX: Top 10 Design Guidelines. Available at: nngroup.com [Accessed 27 Oct 2026].
+Marcotte, E., 2011. Responsive Web Design. New York: A Book Apart.
+Chaffey, D. and Ellis-Chadwick, F., 2022. Digital Marketing: Strategy, Implementation and Practice. 8th ed. Harlow: Pearson. - For your Website Goals: Drive sales & bookings, build brand trust.
+W3Schools, 2024. HTML Responsive Web Design and CSS Navigation Bar Tutorial. Available at: w3schools.com [Accessed 27 Oct 2026].
+Laudon, K.C. and Traver, C.G., 2023. E-commerce 2023: Business, Technology, Society. 17th ed. Harlow: Pearson. - For key features: hero banner, CTA, testimonials.[online]   
 # WEDE-Part-2
 # Alluring Florals - WEDE5020 Part 2
 ## New Features Added in Part 2
@@ -45,7 +55,14 @@ Timelines and Milestones: Project proposal, target audience, competitor analysis
 - Fixed: Image display bug - renamed "Romantic Roses" to "rose.jpg" to remove spaces
 - Fixed: Changed src from C:/Users/... to images/rose.jpg
 - Improved: Button hover effects and cart layout.
- 
+ Part 2 Reference List - Harvard Anglia Style
+Mozilla Developer Network, 2024. CSS Animations - Using CSS animations. Available at: developer.mozilla.org [Accessed 27 Oct 2026].
+Mozilla Developer Network, 2024. @keyframes - CSS at-rule to control animation steps. Available at: developer.mozilla.org [Accessed 27 Oct 2026].
+Meyer, E.A. and Weyl, E., 2023. CSS: The Definitive Guide. 5th ed. Sebastopol: O'Reilly Media.
+Duckett, J., 2011. HTML and CSS: Design and Build Websites. Indianapolis: John Wiley & Sons. - For fade-in, slide-up effects Chapter 15.
+W3Schools, 2024. HTML File Paths - Absolute vs Relative Paths. Available at: w3schools.com [Accessed 27 Oct 2026].
+World Wide Web Consortium, 2021. Web Content File Naming and Path Best Practices. Available at: w3.org [Accessed 27 Oct 2026].
+
 - PART 3-WEDE5020
 ## Features Implemented
 #### 2.1 Interactive Elements
