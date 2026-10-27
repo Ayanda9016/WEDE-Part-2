@@ -1,6 +1,20 @@
+# WEDE-Part-1
+# Alluring Florals - WEDE5020 Part 1
+Project Title: Alluring Florals.
+Student Information: Ayanda Zondo.
+
+Student Number: ST10466695.
+
+Project Overview:  Alluring florals began in 2021 as a kitchen-table business in Durban, Founded by Precious Mazibuko. 
+
+Website Goals and Objectives:
+Drive sales & bookings, build brand trust, Improve convenience.  
+
+Key Features and Functionality: Hero banner with featured bouquets, quick links to shop, testimonials, and "Order Now" CTA. Mobile responsive. 
+
+Timelines and Milestones: Project proposal, target audience, competitor analysis.
 # WEDE-Part-2
 # Alluring Florals - WEDE5020 Part 2
-
 ## Project Overview
 Alluring Florals is a local florist e-commerce website based in Durban, South Africa. The website specializes in fresh hand-tied bouquets, romantic roses, and seasonal arrangements. This is the updated version for Part 2, including feedback improvements from Part 1.
 
