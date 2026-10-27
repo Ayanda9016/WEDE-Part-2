@@ -1,5 +1,9 @@
 # WEDE-Part-1
 # Alluring Florals - WEDE5020 Part 1
+### Part 1 - 12 August 2026
+- Initial build with 5 HTML pages.
+### [Part 1] - Initial Structure
+- Created 5 pages Home Shop About Enquiry Contact  
 Project Title: Alluring Florals.
 Student Information: Ayanda Zondo.
 
@@ -13,11 +17,14 @@ Drive sales & bookings, build brand trust, Improve convenience.
 Key Features and Functionality: Hero banner with featured bouquets, quick links to shop, testimonials, and "Order Now" CTA. Mobile responsive. 
 
 Timelines and Milestones: Project proposal, target audience, competitor analysis.
+### Feedback Edits from Part 1
+- Fixed: Broken images on Cart page
+- Fixed: Navigation not highlighting active page
+- Improved: Contact page was empty - added full content
+- Added: Required animations for Part 2 rubric
+
 # WEDE-Part-2
 # Alluring Florals - WEDE5020 Part 2
-## Project Overview
-Alluring Florals is a local florist e-commerce website based in Durban, South Africa. The website specializes in fresh hand-tied bouquets, romantic roses, and seasonal arrangements. This is the updated version for Part 2, including feedback improvements from Part 1.
-
 ## New Features Added in Part 2
 - Animations:** Added fade-in, slide-up, float animations to About page (Style 2 - luxury editorial)
 - Fixed Image Paths:** Converted absolute paths (C:/Users/...) to relative paths (images/rose.jpg) to fix broken images
@@ -32,40 +39,20 @@ Alluring Florals is a local florist e-commerce website based in Durban, South Af
 - Cart.html - Shopping cart with fixed images
 
 ## Changelog
-
 ### Part 2 - 16 September 2026
 - Added: CSS keyframe animations to About page
 - Added: Contact page info-box (45 Florida Road, Durban)
 - Fixed: Image display bug - renamed "Romantic Roses" to "rose.jpg" to remove spaces
 - Fixed: Changed src from C:/Users/... to images/rose.jpg
-- Improved: Button hover effects and cart layout
-
-### Feedback Edits from Part 1
-- Fixed: Broken images on Cart page
-- Fixed: Navigation not highlighting active page
-- Improved: Contact page was empty - added full content
-- Added: Required animations for Part 2 rubric
-
-### Part 1 - 12 August 2026
-- Initial build with 5 HTML pages and basic CSS
-  
+- Improved: Button hover effects and cart layout.
+ 
 - PART 3-WEDE5020
-- ## Project Overview
-Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh bouquet delivery in Durban. Built for WEDE5020 POE Part 1, 2 and 3. The website implements responsive design, dynamic JavaScript functionality and technical SEO best practices
 ## Features Implemented
-
-### Part 1 - HTML CSS Structure
-- 5 Pages: Home, Shop, About, Enquiry, Contact, Cart
-- Responsive design using CSS Grid and Flexbox (MDN Web Docs, 2023a)
-- Semantic HTML5 for accessibility and SEO
- Part 2 - JavaScript
-
 #### 2.1 Interactive Elements
 - **Tabs:** Our Story, Mission, Flower Care on About page using vanilla JavaScript DOM manipulation (W3Schools, 2023a)
 - **Accordion:** FAQs with jQuery slideToggle method (jQuery Foundation, 2023)
  **Gallery Lightbox:** Click to enlarge flowers with modal overlay
 - **Leaflet Map:** Interactive map with Durban markers using Leaflet.js library (Agafonkin, 2023)
-- **Animations:** fadeIn, zoomIn, slideUp on scroll using CSS keyframes
 #### 2.2 Dynamic Content
 - Products loaded dynamically from JS array not hardcoded in HTML using fetch API (MDN Web Docs, 2023b)
 - **Search:** Live filter by name and type using array filter method
@@ -75,8 +62,7 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 - Client Side Validation using regular expressions for email and phone validation (W3Schools, 2023b)
 - Error Handling with visual feedback pattern (Flanagan, 2020)
 - AJAX Submission using fetch API to jsonplaceholder for asynchronous form handling without page reload (MDN Web Docs, 2023c)
-### Part 3 - Search Engine Optimisation
-
+ - Search Engine Optimisation
 #### 3.1 On-Page SEO
 - **Title Tags:** Descriptive titles with primary keywords as recommended by Google Search Central (2023a)
 - **Meta Descriptions:** Unique for each page under 160 characters (Moz, 2023)
@@ -151,11 +137,6 @@ Alluring Florals is a KZN based e-commerce flower shop offering same-day fresh b
 - Added gallery lightbox
 - Added Leaflet map with Durban markers
 - Added animations fadeIn zoomIn slideUp
-
-### [Part 1] - Initial Structure
-- Created 5 pages Home Shop About Enquiry Contact
-- Implemented responsive CSS with Grid and Flexbox
-- Differentiated enquiry.html and contact.html forms
 ## Reference List - Harvard Anglia Style
 
 Agafonkin, V., 2023. Leaflet - an open-source JavaScript library for mobile-friendly interactive maps. [online] Available at: https://leafletjs.com/ [Accessed 10 May 2025].
